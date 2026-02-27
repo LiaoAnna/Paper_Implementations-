@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# 關鍵修正：這行告訴 Git 不要忽略任何「資料夾」，這樣它才會進去掃描
+!*/
+
+# But not these files...
+!*.py
+!*.ipynb
+
+# Keep tools folder and its content
+
+# Also keep .gitignore itself
+!.gitignore
+
+# Optional: keep README
+!README.md
