@@ -3,6 +3,7 @@
 
 Implementation of SIMRec in PyTorch
 
+I reproduced the paper.
 This repository is a clean and readable implementation of the paper:
 
 ### ***Attribute simulation for item embedding enhancement in multi-interest recommendation***
