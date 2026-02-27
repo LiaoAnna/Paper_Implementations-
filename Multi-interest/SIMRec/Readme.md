@@ -1,8 +1,5 @@
 # SIMRec
 
-# SIMRec
-
----
 
 Implementation of SIMRec in PyTorch
 
@@ -16,7 +13,6 @@ Liu, Y., Zhang, X., Zou, M., & Feng, Z. (2024, March). Attribute simulation for 
 
 ## Credict
 
----
 
 This repo is based on the following repositories:
 
